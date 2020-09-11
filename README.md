@@ -1,7 +1,7 @@
 ### Hi there 👋
 😄 I am Fahad Mattoo, currently changing my career from an Engineer to a Developer.
 
-My interest are as follow;🔭🤔🌱
+My interest and work are;🔭🤔🌱
 
 1 - Fullstack Web Developer: 🔭(HTML, CSS, DOM, Node, Express, React, Redux, PostgreSQL)
 
