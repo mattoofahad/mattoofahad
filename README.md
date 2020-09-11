@@ -1,8 +1,7 @@
 ### Hi there 👋
 😄 I am Fahad Mattoo, currently changing my career from an Engineer to a Developer.
-My interest are as follow;
 
-🔭🤔🌱
+My interest are as follow;🔭🤔🌱
 
 1 - Fullstack Web Developer: 🔭(HTML, CSS, DOM, Node, Express, React, Redux, PostgreSQL)
   
@@ -10,9 +9,7 @@ My interest are as follow;
   2- [Gradient Generater for CSS](https://mattoofahad.github.io/gradient-generator/)  
   3- [Simple React App](https://mattoofahad.github.io/robo/)
     
-2 -Machine/Computer Vision 🔭 (OpenCV - python, Matlab, & C++)
-  
-  [Will be added soon]
+2 -Machine/Computer Vision 🔭 (OpenCV - python, Matlab, & C++)[Will be added soon]
   
 3 -Artificial Intelligence 🤔🌱 in learning phase.
   
