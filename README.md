@@ -1,6 +1,5 @@
 ### Hi there 👋
 😄 I am Fahad Mattoo, currently changing my career from an Engineer to a Developer.
-
 My interest are as follow;
 
 🔭🤔🌱
