@@ -12,7 +12,9 @@ My interest are as follow;🔭🤔🌱
     
 2 -Machine/Computer Vision 🔭 (OpenCV - python, Matlab, & C++)
 
-Projects: [Will be added soon]
+Projects: 
+
+[Will be added soon]
   
 3 -Artificial Intelligence 🤔🌱 in learning phase.
   
