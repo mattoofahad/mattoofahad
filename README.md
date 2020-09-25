@@ -19,9 +19,7 @@ Projects:
 3 -Artificial Intelligence 🤔🌱 in learning phase.
 
    Projects:   
-  ([Smart Barin](https://smart-brain-md.herokuapp.com/))
-  ([Gradient Generater for CSS](https://mattoofahad.github.io/gradient-generator/))
-  ([[Iris Flower Detector](https://flower-detector.herokuapp.com/))
+  ([Iris Flower Detector](https://flower-detector.herokuapp.com/))
 
 <!--
 **mattoofahad/mattoofahad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
