@@ -18,8 +18,7 @@ Projects:
   
 3 -Artificial Intelligence 🤔🌱 in learning phase.
 
-Project:
-
+  Project:
  ([Iris Flower Detector](https://flower-detector.herokuapp.com/))  
 
 <!--
