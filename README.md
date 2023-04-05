@@ -1,25 +1,10 @@
 ### Hi there 👋
-😄 I am Fahad Mattoo, currently changing my career from an Engineer to a Developer.
+😄 I am Fahad Mattoo, currently working as a machine and deep learning researcher. 
 
-My interest and work are;🔭🤔🌱
-
-1 - Fullstack Web Developer: 🔭(HTML, CSS, DOM, Node, Express, React, Redux, PostgreSQL)
-
-   Projects:   
-  ([Smart Barin](https://smart-brain-md.herokuapp.com/))
-  ([Gradient Generater for CSS](https://mattoofahad.github.io/gradient-generator/))
-  ([Simple React App](https://mattoofahad.github.io/robo/))
+My interest are in deep learning and machine learning applied to computer vision applications.
     
-2 -Machine/Computer Vision 🔭 (OpenCV - python, Matlab, & C++)
-
-Projects: 
-
-[Will be added soon]
-  
-3 -Artificial Intelligence 🤔🌱 in learning phase.
-
-   Projects:   
-  ([Iris Flower Detector](https://flower-detector.herokuapp.com/))
+Machine/Computer Vision 🔭 (OpenCV - python, Matlab, & C++)
+Other Interests - Fullstack Web Developer: 🔭(HTML, CSS, DOM, Node, Express, React, Redux, PostgreSQL)
 
 <!--
 **mattoofahad/mattoofahad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
