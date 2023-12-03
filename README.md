@@ -1,5 +1,5 @@
 ### Hi there 👋
-😄 I am Fahad Mattoo, currently working as a machine and deep learning researcher. 
+😄 I am Fahad Mattoo a machine learning engineer at <a href="https://www.linkedin.com/company/dcube-labs/about/">DCube Tech</a> in Islamabad, where I work on Large language models to create custom chatbot.
 
 My interest are in deep learning and machine learning applied to computer vision applications.
     
