@@ -15,4 +15,4 @@ A LITTLE ABOUT ME
 - 💬 Ask me about running open souce LLMs locally.
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/mattoofahad/)
 - 😄 Pronouns: Faaahad
-- ⚡ Fun fact: I like to talk less.
+- ⚡ Fun fact: I am a text message person.
