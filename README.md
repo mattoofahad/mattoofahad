@@ -47,32 +47,16 @@
 <a href="https://gitlab.com/mattoofahad" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/mattoofahad" target="_blank">
+<a href="https://stackoverflow.com/users/14924045/mattoofahad" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.kaggle.com/mattoofahad" target="_blank">
+<a href="https://www.kaggle.com/fahadmattoo" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
 <br/>  
 
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mattoofahad&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
 <br/>  
- 
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=mattoofahad&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
