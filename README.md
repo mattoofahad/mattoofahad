@@ -1,7 +1,7 @@
 ### <div align="center">😄 I am Fahad Mattoo a machine learning engineer at DCube Tech, where I work on Large language models to create custom chatbot.</div>  
   
 
-- 🔭 I’m currently working on a search chatbot that generated json for backend filters of the search engine.  
+- 🔭 I’m currently working with open source LLM's to create agentic flows in a production setting.  
   
 
 - 🌱 I’m currently learning docker and aws.  
