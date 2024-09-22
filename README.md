@@ -59,6 +59,6 @@
 <br/>  
 
 ## Language Used
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattoofahad&show_icons=true&layout=compact&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattoofahad&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <br/>  
 
