@@ -57,3 +57,7 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mattoofahad&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <br/>  
+
+## Language Used
+<div align="center"><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhan955&layout=compact"/></div>  
+<br/>  
