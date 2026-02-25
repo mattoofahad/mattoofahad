@@ -2,7 +2,7 @@
 
 # Hi there, I'm Fahad Mattoo 👋
 
-### Machine Learning Engineer | LLM Specialist | Agentic AI Builder
+### Senior Software Engineer | AI Agent Systems | LLM-Powered Applications
 
 *Building intelligent systems that think, reason, and act.*
 
@@ -12,10 +12,10 @@
 
 ## About Me
 
-- 🤖 **ML Engineer at DCube Tech** — specializing in Large Language Models and custom AI chatbots
-- 🔭 Currently building **agentic AI workflows** with open-source LLMs in production environments
-- 🧠 Deep experience with **RAG pipelines, prompt engineering, and LLM fine-tuning**
-- ☁️ Expanding expertise in **Docker & AWS** for scalable ML deployments
+- 💼 **Senior Software Engineer at [Emumba](https://emumba.com)**, Islamabad — building AI agent systems and LLM-powered applications
+- 🔭 Currently designing and shipping **production-grade agentic workflows** with open-source and commercial LLMs
+- 🧠 Hands-on with **RAG pipelines, prompt engineering, LLM fine-tuning, and multi-agent orchestration**
+- ☁️ Deploying scalable AI systems on **AWS** with **Docker** and modern MLOps practices
 - ⚡ Fun fact: I can talk about **ONE PIECE** forever — Luffy will be King of the Pirates!
 
 ---
